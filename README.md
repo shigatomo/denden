@@ -38,3 +38,10 @@ ArudinoUno、PiPicoは最新のIDEでなくても動作します。
 
 - thonny の、Windows用の32bit版　Python3.8が組み込まれています。
 　　<https://github.com/thonny/thonny/releases/download/v4.1.4/thonny-py38-4.1.4-windows-portable.zip>
+
+
+PiPico PIN
+https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
+
+XAIO PIN
+https://www.switch-science.com/products/7634
