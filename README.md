@@ -46,3 +46,6 @@ https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.htm
 
 XAIO PIN
 https://www.switch-science.com/products/7634
+
+ArudinoUno PIN
+https://content.arduino.cc/assets/A000066-full-pinout.pdf
